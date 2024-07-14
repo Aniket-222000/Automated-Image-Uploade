@@ -1,1 +1,1 @@
-# Automated-Image-Uploade
+# Automated-Image-Uploader
